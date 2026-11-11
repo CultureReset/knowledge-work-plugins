@@ -1,3 +1,14 @@
+> **CultureReset fork of [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins).** Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/anthropics/knowledge-work-plugins).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Knowledge Work Plugins
 
 Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code).
